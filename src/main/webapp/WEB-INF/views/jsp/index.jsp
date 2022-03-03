@@ -41,7 +41,7 @@
 	<div class="row">
 		<div class="col-md-8">
 			<h2>Welcome To John's Project</h2>
-			<h3>Contact @ +91-955666688260 </h3>
+			<h3>Contact @ +91-95566688260 </h3>
 		</div>	
 	</div>
 
